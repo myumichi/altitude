@@ -1,4 +1,4 @@
-![Header](previews/Untitled65_(1).png)
+![Header](previews/Untitled65%20(1).png)
 
 
 ## Miscellanous
@@ -7,7 +7,7 @@ If you notice that anything seems off / unthemed, please ping me (@nyraki) in th
 _(better screenshots would be appreciated as well, my ROM doesn't support everything)_
 
 ### Changelog
-> everforests changelog can be found [here.](https://github.com/myumichi/altitude/blob/main/CHANGELOG.md)
+> altitude's changelog can be found [here.](https://github.com/myumichi/altitude/blob/main/CHANGELOG.md)
 
 ## Plugin Settings
 ### Themer
@@ -38,9 +38,9 @@ _(better screenshots would be appreciated as well, my ROM doesn't support everyt
 - Avatar Status
 - Chat Status: Optional
 - Enable Radial Status: Select All
-- Online Color: `#83C092`
-- Idle Color: `#DBBC7F`
-- DND Color: `#E67E80`
+- Online Color: `#CCD6DF`
+- Idle Color: `#F4B67E`
+- DND Color: `#C3A47A`
 
 ### NoBurnIn
 - Unread Counter
