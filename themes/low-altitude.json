@@ -1,0 +1,82 @@
+{
+    "manifest": {
+        "author": "nyraki",
+        "version": "1.0.0",
+        "name": "low altitude"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/fQFwJ9F\/IMG-20240211-003054-1200-x-2560-pixel.png",
+        "blur_radius": 25,
+        "overlay_alpha": 95
+    },
+    "fonts": {
+        "whitney_bold": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/LexendDeca-Bold.ttf?raw=1",
+        "whitney_semibold": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/LexendDeca-SemiBold.ttf?raw=1",
+        "whitney_medium": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/LexendDeca-Regular.ttf?raw=1",
+        "ginto_bold": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/RawsonPro-Bold.ttf?raw=1",
+        "ginto_medium": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/RawsonPro-SemiBold.ttf?raw=1",
+        "ginto_regular": "https:\/\/github.com\/myumichi\/altitude\/blob\/main\/fonts\/LexendDeca-Regular.ttf?raw=1"
+    },
+    "simple_colors": {
+        "accent": -4152447,
+        "input_background": -13286833,
+        "mention_highlight": 871473238
+    },
+    "colors": {
+        "primary_dark_200": -5170,
+        "primary_dark_360": -6705730,
+        "primary_dark_600": -12563111,
+        "primary_dark_630": -11444116,
+        "primary_dark_700": -12563111,
+        "uikit_settings_item_text_color_light": -4217983,
+        "white_500": -1451323,
+        "primary_dark_330": -3352865,
+        "link": -5252609,
+        "link_500": -5252609,
+        "primary_dark_300": -3955590,
+        "primary_dark_400": -3352865,
+        "primary_630": -14011846,
+        "primary_660": -927561,
+        "primary_300": -14011846,
+        "primary_dark_800": -12563111,
+        "uikit_settings_item_text_color_dark": -5170,
+        "uikit_btn_bg_color_selector_green": -4217983,
+        "uikit_btn_bg_color_selector_red": -4217983,
+        "brand_new_500": -927561,
+        "primary_500_alpha_32": -5994399,
+        "primary_700": -13286833
+    },
+    "drawable_tints": {
+        "drawable_open_folder_dark": -11181458,
+        "drawable_overlay_channels_selected_dark": -12563111,
+        "drawable_voice_indicator_speaking": -3352865,
+        "ic_account_circle_white_24dp": -927561,
+        "ic_archived_clock_dark": -927561,
+        "ic_ban_red_24dp": -4217983,
+        "ic_channel_announcements_locked": -927561,
+        "ic_channel_announcements_nsfw": -927561,
+        "ic_channel_announcements_thread": -927561,
+        "ic_channel_announcements_thread_locked": -927561,
+        "ic_channel_announcements_thread_nsfw": -927561,
+        "ic_channel_text": -927561,
+        "ic_channel_text_locked": -927561,
+        "ic_channel_text_nsfw": -927561,
+        "ic_channel_topic_ellipsis_dark": -927561,
+        "ic_channel_voice": -927561,
+        "ic_channel_voice_locked": -927561,
+        "ic_content_copy_white_a60_24dp": -927561,
+        "ic_sidebar_notifications_off_dark_24dp": -927561,
+        "ic_sidebar_notifications_on_dark_24dp": -927561,
+        "ic_sidebar_pins_off_dark_24dp": -927561,
+        "ic_thread": -927561,
+        "ic_thread_locked": -927561,
+        "ic_thread_nsfw": -927561,
+        "ic_status_online_16dp": -3352865,
+        "ic_arrow_back_white_24dp": -927561,
+        "ic_status_dnd_16dp": -9867904,
+        "ic_status_idle_16dp": -1068938,
+        "ic_add_friend_plus": -4217983,
+        "ic_direct_message_header": -927561
+    },
+    "raws": {}
+}
