@@ -2,7 +2,9 @@
     "manifest": {
         "author": "nyraki",
         "version": "1.0.0",
-        "name": "high altitude"
+        "name": "high altitude",
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/altitude\/main\/themes\/high-altitude.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/D5D2nwX\/IMG-20240211-225656-1200-x-2560-pixel.jpg",
