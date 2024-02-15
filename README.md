@@ -11,7 +11,7 @@ _(better screenshots would be appreciated as well, my ROM doesn't support everyt
 
 ## Plugin Settings
 ### Themer
-- Transparency mode set to Chat
+- Transparency mode set to Chat & Settings
 - Custom Fonts: Enabled
 
 > [!Important]
